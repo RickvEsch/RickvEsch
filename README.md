@@ -1,6 +1,6 @@
 # Exploring Data, Automation & Digital Transformation! 💡
 
-## 💫 About Me:
+## About Me:
 Hi there! I’m Rick, an IT & Business student specializing in Smart Industry, Intelligent Management, and Digitalization. My passion lies in leveraging data analytics and machine learning to drive business optimization and automation.<br><br>💡 What I Focus On:<br>🔹 Data Analytics & Machine Learning – Using Python, SQL, and R for data-driven decision-making<br>🔹 Business Process Automation – Experience with Power Apps, Power Automate, and Excel<br>🔹 Intelligent Management & Digitalization – Applying smart industry solutions to enhance business efficiency<br><br>🛠 Tools & Technologies:<br>✔ SQL, R – Data querying & statistical analysis<br>✔ Power BI, Power Apps, Power Automate – Business intelligence & automation<br>✔ Excel (Advanced) – Data modeling & visualization<br>✔ Python (Learning) – Focus on data analysis & machine learning in Jupyter Notebooks
 
 
